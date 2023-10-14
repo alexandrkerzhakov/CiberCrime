@@ -1,0 +1,15 @@
+.crimeSummaryPage {
+    align-items: normal;
+}
+
+
+
+.crimeSummaryPage vaadin-grid-cell-content {
+    white-space: normal;
+    text-overflow: inherit;
+    /*display: flow-root;*/
+    /*align-items: normal;*/
+
+    /*display: block;*/
+    /*display: flow-root;*/
+}
